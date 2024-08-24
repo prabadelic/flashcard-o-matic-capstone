@@ -4,7 +4,7 @@ This is a flash card application, Flashcard-o-matic, designed to help students s
 
 ## Learning Objectives
 
-This project tested my ability work with rendering and state management using React. The key learning objectives include:
+This project tested my ability to work with rendering and state management using React. The key learning objectives include:
 
 - Installing packages via NPM
 - Running tests from the command line
