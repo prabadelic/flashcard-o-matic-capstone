@@ -1,6 +1,6 @@
 # flashcard-o-matic-capstone
 
-This is a is a flash card application, Flashcard-o-matic, designed to help students study online. Teachers can create decks of flash cards for the subjects they teach, and students can use these decks to study and reinforce their knowledge. The project is built using React and demonstrates rendering and state management in a single-page application.
+This is a flash card application, Flashcard-o-matic, designed to help students study online. Teachers can create decks of flash cards for the subjects they teach, and students can use these decks to study and reinforce their knowledge. The project is built using React and demonstrates rendering and state management in a single-page application.
 
 ## Learning Objectives
 
